@@ -1,0 +1,11 @@
+#parrafo {
+    background: aqua;
+}
+
+.active {
+    color: aqua;
+}
+
+#titulo {
+    font-size: 24px;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "carritoRestaurante.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
